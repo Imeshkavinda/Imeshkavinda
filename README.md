@@ -1,23 +1,198 @@
-<h1 align="center">Hi 👋, I'm Imesh Kavinda</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20👋%20I'm%20Imesh%20Kavinda&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="imeshkavinda" /> </p>
+<h3 align="center">🔍 Aspiring QA Engineer | Manual & Automation Testing Enthusiast</h3>
+<h4 align="center">📍 Bulathkohupitiya, Sri Lanka | 🎓 BIT Student @ University of Moratuwa</h4>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **imesh9748@gmail.com**
-
-- ⚡ Fun fact **Imesh LK**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imesh-kavinda-2404152bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imesh-kavinda-2404152bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100095109967554&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100095109967554&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@imesh_lk.9123?si=muye6wbd-havdtfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@imesh_lk.9123?si=muye6wbd-havdtfb" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imeshkavinda&label=Profile%20Views&color=667eea&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-764ba2?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20QA%20Roles-success?style=for-the-badge" alt="remote" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshkavinda&show_icons=true&locale=en&layout=compact" alt="imeshkavinda" /></p>
+### 👨‍💻 About Me
 
+```yaml
+role: QA Engineer (Entry Level)
+location: Sri Lanka
+focus: [Manual Testing, API Testing, Test Automation]
+currently_learning: Selenium WebDriver, ISTQB Foundation
+education: Bachelor of IT @ University of Moratuwa
+experience: Building QA Portfolio with Real-World Projects
+career_goal: Skilled QA Engineer specializing in Automation & Performance Testing
+availability: Open to QA roles in Sri Lanka & Remote opportunities
+```
+
+- 🧪 Building a comprehensive **QA Portfolio** with manual & automation projects
+- 🔬 Hands-on experience with **Jira, Postman, Selenium, SQL**
+- 🎯 Practicing **Test Case Design, Bug Reporting & API Testing**
+- 🚀 Currently learning **Selenium with Python** for test automation
+- 📧 Reach me at **imesh9748@gmail.com**
+- 💡 Fun fact: Transitioned from teaching ICT to pursuing QA Engineering!
+
+---
+
+### 🛠️ QA Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,selenium,python,mysql,git,github,vscode" alt="tools" />
+</p>
+
+#### 🔹 Testing Expertise
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20|%20Regression%20|%20Exploratory-blue?style=flat-square)
+![API Testing](https://img.shields.io/badge/API%20Testing-Postman%20|%20REST-orange?style=flat-square)
+![Test Automation](https://img.shields.io/badge/Automation-Selenium%20|%20Python-green?style=flat-square)
+![Database Testing](https://img.shields.io/badge/Database-SQL%20Queries-yellow?style=flat-square)
+
+#### 🔹 Tools & Technologies
+- **Bug Tracking:** Jira, Trello
+- **Test Management:** TestRail, Zephyr, Excel
+- **API Testing:** Postman, JSON/XML validation
+- **Automation:** Selenium WebDriver (Python)
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, SQL queries
+- **Performance:** JMeter (Basic)
+
+#### 🔹 Methodologies
+- Software Testing Life Cycle (STLC)
+- Software Development Life Cycle (SDLC)
+- Agile/Scrum Testing
+- Test Case & Test Plan Design
+- Defect Life Cycle Management
+
+---
+
+### 📂 QA Portfolio Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-Manual%20Testing-blue?style=for-the-badge" /><br>
+      <b>🎓 University Student Portal Testing</b><br>
+      <sub>Designed 25+ test cases | Functional & Regression Testing</sub><br>
+      <sub>Reported 10+ bugs in Jira | Test documentation in Excel</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-API%20Testing-orange?style=for-the-badge" /><br>
+      <b>🌦️ Weather API Testing (Postman)</b><br>
+      <sub>Tested GET/POST requests | Response validation</sub><br>
+      <sub>Created Postman Collection | Published on GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-Automation-green?style=for-the-badge" /><br>
+      <b>🤖 Login Automation (Selenium + Python)</b><br>
+      <sub>Automated login/logout flow | Assertion validations</sub><br>
+      <sub>Code available on GitHub for review</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/PROJECT-Performance-red?style=for-the-badge" /><br>
+      <b>⚡ Basic Load Testing (JMeter)</b><br>
+      <sub>Simulated 50 concurrent users | Response time analysis</sub><br>
+      <sub>Performance report generation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education & Certifications
+
+```
+🎓 Bachelor of Information Technology (BIT)
+   University of Moratuwa | 2023 - Present
+
+🎓 Diploma in Information Technology
+   ESOFT Metro Campus | 2022 - 2023
+
+🎓 Diploma in Human Resource Management
+   IMBS Green University | 2022 - 2023
+
+🎓 Diploma in English
+   ESOFT Metro Campus | 2022 - 2023
+```
+
+**🏆 Certifications (In Progress):**
+- ISTQB Foundation Level
+- Manual Testing Fundamentals
+- API Testing with Postman
+
+---
+
+### 💼 Professional Experience
+
+**Online ICT Teacher** | Remote | 2023 - Present
+- Conducted ICT lessons for students at multiple levels
+- Created educational content on databases, networking, and software concepts
+- Introduced basic software testing concepts to students
+- Enhanced problem-solving and communication skills through virtual teaching
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imesh-kavinda-2404152bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:imesh9748@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100095109967554" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://youtube.com/@imesh_lk.9123" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imeshkavinda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshkavinda&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeshkavinda&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🎯 Current Focus
+
+```python
+class QA_Engineer_Journey:
+    def __init__(self):
+        self.current_focus = [
+            "Building comprehensive QA portfolio",
+            "Learning Selenium WebDriver automation",
+            "Practicing API testing with Postman",
+            "Studying ISTQB Foundation syllabus",
+            "Contributing to open-source testing projects"
+        ]
+    
+    def career_goals(self):
+        return {
+            "short_term": "Land first QA Engineer role (Remote/Sri Lanka)",
+            "mid_term": "Master test automation frameworks",
+            "long_term": "Become QA Lead specializing in Performance Testing"
+        }
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="footer"/>
+  
+  <p>
+    <b>💼 Open to QA Engineer roles in Sri Lanka & Remote positions</b><br>
+    <sub>Let's connect and discuss quality assurance opportunities!</sub>
+  </p>
+</div>
