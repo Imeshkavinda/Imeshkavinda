@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20👋%20I'm%20Imesh%20Kavinda&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:007cf0&height=220&section=header&text=Hi%20👋%20I'm%20Imesh%20Kavinda&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Automation%20Learner&descSize=18&descAlignY=55&descColor=d0ffe8" alt="header"/>
 </div>
 
-<h3 align="center">🔍 Aspiring QA Engineer | Manual & Automation Testing Enthusiast</h3>
-<h4 align="center">📍 Bulathkohupitiya, Sri Lanka | 🎓 BIT Student @ University of Moratuwa</h4>
+<h3 align="center">🧪 Aspiring QA Engineer | Manual · Automation · Security · API Testing</h3>
+<h4 align="center">📍 Bulathkohupitiya, Sri Lanka &nbsp;|&nbsp; 🎓 HND – IT @ University of Moratuwa</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imeshkavinda&label=Profile%20Views&color=667eea&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-764ba2?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Open%20To-Remote%20QA%20Roles-success?style=for-the-badge" alt="remote" />
+  <img src="https://komarev.com/ghpvc/?username=imeshkavinda&label=Profile%20Views&color=00c896&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-007cf0?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20To-QA%20Roles%20%7C%20Remote-00c896?style=for-the-badge" alt="remote" />
 </p>
 
 ---
@@ -16,50 +16,72 @@
 ### 👨‍💻 About Me
 
 ```yaml
-role: QA Engineer (Entry Level)
-location: Sri Lanka
-focus: [Manual Testing, API Testing, Test Automation]
-currently_learning: Selenium WebDriver, ISTQB Foundation
-education: Bachelor of IT @ University of Moratuwa
-experience: Building QA Portfolio with Real-World Projects
-career_goal: Skilled QA Engineer specializing in Automation & Performance Testing
-availability: Open to QA roles in Sri Lanka & Remote opportunities
+name:     "Imesh Kavinda"
+role:     "QA Engineer (Entry Level)"
+location: "Sri Lanka"
+
+focus:
+  - Manual Testing
+  - Security Testing
+  - Performance Testing
+  - API Testing
+  - Test Automation
+
+currently_learning:
+  - OWASP ZAP
+  - Python (PyTest)
+  - Postman Advanced
+  - Katalon Studio
+
+education:     "HND in IT @ University of Moratuwa"
+experience:    "Building QA Portfolio with Real-World Projects"
+career_goal:   "Skilled QA Engineer specializing in Automation & Performance Testing"
+availability:  "Open to QA roles in Sri Lanka & Remote opportunities"
+contact:       "imesh9748@gmail.com"
 ```
 
-- 🧪 Building a comprehensive **QA Portfolio** with manual & automation projects
-- 🔬 Hands-on experience with **Jira, Postman, Selenium, SQL**
-- 🎯 Practicing **Test Case Design, Bug Reporting & API Testing**
-- 🚀 Currently learning **Selenium with Python** for test automation
+- 🧪 Building a comprehensive **QA Portfolio** with manual, automation & security projects
+- 🔬 Hands-on experience with **Jira, Postman, Selenium, SQL, Chrome DevTools**
+- 🎯 Practicing **Test Case Design, Bug Reporting, API Testing & OWASP concepts**
+- 🚀 Currently learning **Selenium with Python + PyTest** for test automation
 - 📧 Reach me at **imesh9748@gmail.com**
-- 💡 Fun fact: Transitioned from teaching ICT to pursuing QA Engineering!
+- 💡 Fun fact: Transitioned from **teaching ICT → pursuing QA Engineering!**
 
 ---
 
-### 🛠️ QA Skills & Tools
+### 🛠️ QA Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,selenium,python,mysql,git,github,vscode" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,selenium,postman,mysql,git,github,vscode,linux" alt="tools" />
 </p>
 
 #### 🔹 Testing Expertise
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20|%20Regression%20|%20Exploratory-blue?style=flat-square)
-![API Testing](https://img.shields.io/badge/API%20Testing-Postman%20|%20REST-orange?style=flat-square)
-![Test Automation](https://img.shields.io/badge/Automation-Selenium%20|%20Python-green?style=flat-square)
-![Database Testing](https://img.shields.io/badge/Database-SQL%20Queries-yellow?style=flat-square)
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Functional%20|%20Regression%20|%20Exploratory-007cf0?style=flat-square)
+![API Testing](https://img.shields.io/badge/API%20Testing-Postman%20|%20REST%20APIs-FF6C37?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Selenium%20|%20Python%20|%20PyTest-43B02A?style=flat-square)
+![Security Testing](https://img.shields.io/badge/Security-OWASP%20Top%2010%20|%20ZAP-dc2626?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance-JMeter%20Basics-f59e0b?style=flat-square)
+![Database Testing](https://img.shields.io/badge/Database-SQL%20Queries%20|%20MySQL-4479A1?style=flat-square)
 
 #### 🔹 Tools & Technologies
-- **Bug Tracking:** Jira, Trello
-- **Test Management:** TestRail, Zephyr, Excel
-- **API Testing:** Postman, JSON/XML validation
-- **Automation:** Selenium WebDriver (Python)
-- **Version Control:** Git, GitHub
-- **Databases:** MySQL, SQL queries
-- **Performance:** JMeter (Basic)
+
+| Category | Tools |
+|----------|-------|
+| **Bug Tracking** | Jira |
+| **Test Management** | Excel, Google Sheets |
+| **API Testing** | Postman |
+| **Automation** | Selenium WebDriver (Python), PyTest |
+| **Security** | OWASP ZAP (Learning), Chrome DevTools |
+| **Performance** | JMeter (Basic) |
+| **Version Control** | Git, GitHub |
+| **Databases** | MySQL, SQL Queries |
 
 #### 🔹 Methodologies
+
 - Software Testing Life Cycle (STLC)
 - Software Development Life Cycle (SDLC)
-- Agile/Scrum Testing
+- Agile / Scrum Testing
 - Test Case & Test Plan Design
 - Defect Life Cycle Management
 
@@ -70,66 +92,57 @@ availability: Open to QA roles in Sri Lanka & Remote opportunities
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-Manual%20Testing-blue?style=for-the-badge" /><br>
-      <b>🎓 University Student Portal Testing</b><br>
-      <sub>Designed 25+ test cases | Functional & Regression Testing</sub><br>
-      <sub>Reported 10+ bugs in Jira | Test documentation in Excel</sub>
+      <img src="https://img.shields.io/badge/PROJECT-Automation%20Testing-43B02A?style=for-the-badge" /><br>
+      <b>🤖 Login & Registration — Selenium + PyTest</b><br>
+      <sub>15+ Test Cases Automated · 6 Bugs Found</sub><br>
+      <sub>Valid/invalid login, password validation, empty fields</sub><br>
+      <sub>Reusable scripts + execution reports generated</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-API%20Testing-orange?style=for-the-badge" /><br>
-      <b>🌦️ Weather API Testing (Postman)</b><br>
-      <sub>Tested GET/POST requests | Response validation</sub><br>
-      <sub>Created Postman Collection | Published on GitHub</sub>
+      <img src="https://img.shields.io/badge/PROJECT-Automation%20Testing-43B02A?style=for-the-badge" /><br>
+      <b>🎓 University Moodle Website — Full Automation</b><br>
+      <sub>20+ Test Scenarios Automated · 8 Issues Found</sub><br>
+      <sub>Login, enrollment, assignment submission, logout</sub><br>
+      <sub>Dynamic element handling & navigation validation</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-Automation-green?style=for-the-badge" /><br>
-      <b>🤖 Login Automation (Selenium + Python)</b><br>
-      <sub>Automated login/logout flow | Assertion validations</sub><br>
-      <sub>Code available on GitHub for review</sub>
+      <img src="https://img.shields.io/badge/PROJECT-Manual%20Testing-007cf0?style=for-the-badge" /><br>
+      <b>🌐 Portfolio Website — Cross-Browser Manual Testing</b><br>
+      <sub>25+ Test Cases Written · 4 UI Bugs Found</sub><br>
+      <sub>UI, navigation, contact form & responsiveness testing</sub><br>
+      <sub>Defects logged & tracked in Jira — full defect lifecycle</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-Performance-red?style=for-the-badge" /><br>
-      <b>⚡ Basic Load Testing (JMeter)</b><br>
-      <sub>Simulated 50 concurrent users | Response time analysis</sub><br>
-      <sub>Performance report generation</sub>
+      <img src="https://img.shields.io/badge/PROJECT-Security%20Testing-dc2626?style=for-the-badge" /><br>
+      <b>🛡️ Password Strength Validation — OWASP</b><br>
+      <sub>Weak · Medium · Strong password policy testing</sub><br>
+      <sub>Chrome DevTools + OWASP Top 10 reference</sub><br>
+      <sub>Improved password policy recommendations delivered</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education & Background
 
 ```
-🎓 Bachelor of Information Technology (BIT)
-   University of Moratuwa | 2023 - Present
+🎓 HND in Information Technology
+   University of Moratuwa | Sri Lanka
 
-🎓 Diploma in Information Technology
-   ESOFT Metro Campus | 2022 - 2023
-
-🎓 Diploma in Human Resource Management
-   IMBS Green University | 2022 - 2023
-
-🎓 Diploma in English
-   ESOFT Metro Campus | 2022 - 2023
+👨‍🏫 Online ICT Teacher (Remote) | 2023 – Present
+   Conducted ICT lessons across multiple grade levels
+   Introduced software testing concepts to students
+   Enhanced problem-solving & communication skills through virtual teaching
 ```
 
-**🏆 Certifications (In Progress):**
-- ISTQB Foundation Level
+**🏆 Currently Learning / Certifications in Progress:**
 - Manual Testing Fundamentals
 - API Testing with Postman
-
----
-
-### 💼 Professional Experience
-
-**Online ICT Teacher** | Remote | 2023 - Present
-- Conducted ICT lessons for students at multiple levels
-- Created educational content on databases, networking, and software concepts
-- Introduced basic software testing concepts to students
-- Enhanced problem-solving and communication skills through virtual teaching
+- Selenium WebDriver + Python Automation
+- OWASP ZAP — Web Security Scanning
 
 ---
 
@@ -140,7 +153,7 @@ availability: Open to QA roles in Sri Lanka & Remote opportunities
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:imesh9748@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100095109967554" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -155,12 +168,12 @@ availability: Open to QA roles in Sri Lanka & Remote opportunities
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imeshkavinda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshkavinda&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imeshkavinda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c896&icon_color=007cf0" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshkavinda&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00c896" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeshkavinda&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeshkavinda&theme=tokyonight&hide_border=true&background=0D1117&ring=00c896&fire=007cf0&currStreakLabel=00c896" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -170,29 +183,35 @@ availability: Open to QA roles in Sri Lanka & Remote opportunities
 ```python
 class QA_Engineer_Journey:
     def __init__(self):
+        self.name = "Imesh Kavinda"
+        self.role = "QA Engineer (Entry Level)"
+
         self.current_focus = [
-            "Building comprehensive QA portfolio",
-            "Learning Selenium WebDriver automation",
-            "Practicing API testing with Postman",
-            "Studying ISTQB Foundation syllabus",
-            "Contributing to open-source testing projects"
+            "Building QA portfolio — Manual, Automation & Security testing",
+            "Deepening Selenium WebDriver automation with Python + PyTest",
+            "Learning OWASP ZAP for web application security testing",
+            "Exploring Katalon Studio for no-code test automation",
+            "Practicing real-world API testing scenarios with Postman",
         ]
-    
+
     def career_goals(self):
         return {
-            "short_term": "Land first QA Engineer role (Remote/Sri Lanka)",
-            "mid_term": "Master test automation frameworks",
-            "long_term": "Become QA Lead specializing in Performance Testing"
+            "short_term":  "Land first QA Engineer role — Sri Lanka or Remote",
+            "mid_term":    "Master test automation (Selenium, PyTest, Katalon)",
+            "long_term":   "Become QA Lead specializing in Security & Performance Testing",
         }
+
+    def fun_fact(self):
+        return "Transitioned from teaching ICT → QA Engineering. Bugs, meet your match. 🐛"
 ```
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="footer"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:007cf0&height=120&section=footer" alt="footer"/>
+
   <p>
     <b>💼 Open to QA Engineer roles in Sri Lanka & Remote positions</b><br>
-    <sub>Let's connect and discuss quality assurance opportunities!</sub>
+    <sub>Let's connect and build quality software together!</sub>
   </p>
 </div>
